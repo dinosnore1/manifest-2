@@ -1043,8 +1043,8 @@
   <project name="tools/platform-compat"/>
   
   <include name="hals.xml"/>
+  <include name="remove.xml"/>
   <include name="cafex.xml"/> 
   <include name="lineage.xml"/>    
-  <include name="remove.xml"/>  
   
 </manifest>
